@@ -157,9 +157,7 @@ section.caseStudy{
     margin: 8vw 0 0 0;
 }
 
-section.caseStudy span{
-    color: rgb(64, 72, 82, 1); 
-}
+
 
 section.caseStudy span{
     color: rgb(64, 72, 82, 1); 
@@ -168,6 +166,10 @@ section.caseStudy span{
 section.caseStudy span#case{
     font-size: 0.7rem;
     margin: 0 0 1vw 6vw;
+}
+
+section.caseStudy span{
+    color: rgb(64, 72, 82, 1); 
 }
 
 section.caseStudy h2{
@@ -179,13 +181,13 @@ section.caseStudy h2{
     margin: 4vw 0 0 5vw;
 }
 
-#list div{
-    margin: 0 0 3vw 0;
-}
-
 #list div#SubUM{
     padding: 0 10vw 3vw 0;
     border-bottom: 2px solid #e0e0e0;
+}
+
+#list div{
+    margin: 0 0 3vw 0;
 }
 
 #list div#SubDois{
